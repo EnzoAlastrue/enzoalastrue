@@ -4,7 +4,6 @@
 ![License](https://img.shields.io/badge/Licence-MIT-green?style=for-the-badge)
 ![Informatique](https://img.shields.io/badge/Licence-Informatique-blueviolet?style=for-the-badge)
 ![Psychologie](https://img.shields.io/badge/Licence-Psychologie-ff69b4?style=for-the-badge)
-![Minecraft](https://img.shields.io/badge/Cobblemon-Shiny-yellow?style=for-the-badge&logo=minecraft&logoColor=black)
 ![Profile Views](https://komarev.com/ghpvc/?username=enzoalastrue&style=for-the-badge&color=blueviolet)
 
 ---
