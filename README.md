@@ -112,7 +112,7 @@ Cours complets pour la licence de psychologie, avec définitions, expériences c
 
 ## 📄 Licence
 
-Ce projet est sous licence **MIT** — voir [LICENSE](./LICENSE).
+© EnzoAlastrue — Université Toulouse. Voir [LICENSE](./LICENSE).
 
 ---
 
