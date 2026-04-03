@@ -1,7 +1,7 @@
 # 👋 EnzoAlastrue — Dépôt Personnel
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![License](https://img.shields.io/badge/Licence-MIT-green?style=for-the-badge)
+![License](https://img.shields.io/badge/Licence-Université_Toulouse-green?style=for-the-badge)
 ![Informatique](https://img.shields.io/badge/Licence-Informatique-blueviolet?style=for-the-badge)
 ![Psychologie](https://img.shields.io/badge/Licence-Psychologie-ff69b4?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=enzoalastrue&style=for-the-badge&color=blueviolet)
@@ -111,7 +111,7 @@ Cours complets pour la licence de psychologie, avec définitions, expériences c
 
 ## 📄 Licence
 
-Ce projet est sous licence **MIT** — voir [LICENSE](./LICENSE).
+© EnzoAlastrue — Université Toulouse. Voir [LICENSE](./LICENSE).
 
 ---
 
