@@ -4,6 +4,7 @@
 ![License](https://img.shields.io/badge/Licence-Université_Toulouse-green?style=for-the-badge)
 ![Informatique](https://img.shields.io/badge/Licence-Informatique-blueviolet?style=for-the-badge)
 ![Psychologie](https://img.shields.io/badge/Licence-Psychologie-ff69b4?style=for-the-badge)
+![Mathématiques](https://img.shields.io/badge/Licence-Mathématiques-orange?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=enzoalastrue&style=for-the-badge&color=blueviolet)
 
 ---
@@ -42,7 +43,8 @@
 │   ├── ⚙️  algorithmes/           — Tri, recherche, complexité
 │   ├── 🗂️  structures_de_donnees/ — Listes, arbres, graphes...
 │   ├── 🏗️  programmation_orientee_objet/ — Classes, héritage, patterns
-│   └── 🧠 psychologie/           — Cours de licence en psychologie
+│   ├── 🧠 psychologie/           — Cours de licence en psychologie
+│   └── ➕ mathematiques/         — Cours de maths L1-L2
 ├── 📄 LICENSE
 └── 🔧 .gitignore
 ```
@@ -106,6 +108,20 @@ Cours complets pour la licence de psychologie, avec définitions, expériences c
 | [04 — Neurosciences](./cours/psychologie/04_neurosciences.md) | Cerveau, neurones, émotions |
 | [05 — Méthodologie](./cours/psychologie/05_methodologie.md) | Méthodes de recherche, statistiques, éthique |
 
+
+---
+
+## ➕ Cours Mathématiques (L1-L2)
+
+Cours complets de mathématiques niveau licence, avec formules, tableaux récapitulatifs et exercices de révision.
+
+| Fichier | Sujet | Niveau |
+|---|---|---|
+| [01 — Logique & Ensembles](./cours/mathematiques/01_logique_ensembles.md) | Logique propositionnelle, quantificateurs, ensembles, applications | L1 |
+| [02 — Analyse L1](./cours/mathematiques/02_analyse_L1.md) | Suites, limites, continuité, dérivation, intégration, DL | L1 |
+| [03 — Algèbre Linéaire](./cours/mathematiques/03_algebre_lineaire.md) | Matrices, systèmes linéaires, espaces vectoriels, diagonalisation | L1-L2 |
+| [04 — Probabilités & Statistiques](./cours/mathematiques/04_probabilites_statistiques.md) | Lois usuelles, variables aléatoires, inférence, TCL | L1-L2 |
+| [05 — Analyse L2](./cours/mathematiques/05_analyse_L2.md) | Séries, fonctions de plusieurs variables, intégrales généralisées, EDO | L2 |
 
 ---
 
