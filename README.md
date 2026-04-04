@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/Licence-Université_Toulouse-green?style=for-the-badge)
 ![Informatique](https://img.shields.io/badge/Licence-Informatique-blueviolet?style=for-the-badge)
+![Mathématiques](https://img.shields.io/badge/Licence-Mathématiques-orange?style=for-the-badge)
 ![Psychologie](https://img.shields.io/badge/Licence-Psychologie-ff69b4?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=enzoalastrue&style=for-the-badge&color=blueviolet)
 
@@ -42,6 +43,7 @@
 │   ├── ⚙️  algorithmes/           — Tri, recherche, complexité
 │   ├── 🗂️  structures_de_donnees/ — Listes, arbres, graphes...
 │   ├── 🏗️  programmation_orientee_objet/ — Classes, héritage, patterns
+│   ├── 📐 mathematiques/         — Analyse, algèbre, probabilités
 │   └── 🧠 psychologie/           — Cours de licence en psychologie
 ├── 📄 LICENSE
 └── 🔧 .gitignore
@@ -91,6 +93,20 @@ Collection de cours Python avec **exercices entièrement corrigés et fonctionne
 | [03 — Polymorphisme](./cours/programmation_orientee_objet/03_polymorphisme.py) | Classes abstraites, duck typing |
 | [04 — Encapsulation](./cours/programmation_orientee_objet/04_encapsulation.py) | Propriétés, attributs privés, descripteurs |
 | [05 — Design Patterns](./cours/programmation_orientee_objet/05_patrons_conception.py) | Singleton, Factory, Observer, Strategy |
+
+---
+
+## 📐 Cours Mathématiques (Licence)
+
+Cours complets de mathématiques L1-L2, avec définitions, théorèmes et exercices.
+
+| Fichier | Sujet | Niveau |
+|---|---|---|
+| [01 — Logique & Ensembles](./cours/mathematiques/01_logique_ensembles.md) | Logique, théorie des ensembles | L1 |
+| [02 — Analyse Réelle](./cours/mathematiques/02_analyse_L1.md) | Limites, continuité, dérivation, intégration | L1 |
+| [03 — Algèbre Linéaire](./cours/mathematiques/03_algebre_lineaire.md) | Matrices, systèmes, espaces vectoriels, diagonalisation | L1-L2 |
+| [04 — Probabilités & Statistiques](./cours/mathematiques/04_probabilites_statistiques.md) | Probabilités, variables aléatoires, statistiques | L1-L2 |
+| [05 — Analyse Avancée](./cours/mathematiques/05_analyse_L2.md) | Suites & séries, fonctions de plusieurs variables, intégrales généralisées | L2 |
 
 ---
 
